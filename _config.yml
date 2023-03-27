@@ -86,7 +86,7 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>Reinforcement Learning</mark>  <mark>Multi-armed Contextual Bandits</mark>  <mark>ML</mark>
+          <mark>reinforcement learning</mark>  <mark>multi-armed contextual bandits</mark>  <mark>ML</mark>
           
           
           Co-developing fast, <mark>AWS</mark> based recommendation platform for JSON encodable data. Working directly with CTO / founder / solution architect (managed 1 additional developer along the way for a while).
@@ -112,7 +112,7 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>DL</mark>  <mark>computer vision</mark>  <mark>time series analysis</mark>  
+          <mark>deep learning</mark>  <mark>computer vision</mark>  <mark>time series analysis</mark>  <mark>web scraping</mark>
           
           - image segmentation for agriculture [](https://www.agriculture-vision.com/); integration of trainer model with DJI drone via video streaming 
           - Steam games sales prediction with LSTM - from automated data scraping and storing in PostgreSQL DB to LSTM-based model training; github will be available soon
@@ -159,7 +159,7 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>Fuel Quality prediction</mark>  <mark>Cox regression</mark>  <mark>data warehouse development</mark> 
+          <mark>fuel quality prediction</mark>  <mark>Cox regression</mark>  <mark>data warehouse development</mark> 
           
           - data warehouse development - developing database structure and ETL jobs for PKN Orlen's logistics department; ETL processes started at *.csv or *.pdf files level 
           - fuel quality prediction - development of R-based regression model and deployment with MS SQLServer Machine Learning / R Services for live predictions
@@ -185,7 +185,7 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>Fuel Quality prediction</mark>  <mark>Cox regression</mark>  <mark>data warehouse development</mark> 
+          <mark>predictive autoscaling</mark>  <mark>predictive cloud maintenance</mark>  <mark>churn prediction</mark>  <mark>ML</mark> 
           
           - developing mobile assistant (Bixby) log-based analytical use cases (churn prediction, user activity prediction) on local and cloud infrastructure
           - development of predictive analytics for cloud infrastructure (disk usage prediction) using various approaches, e.g. Holt-Winters, ARIMA, Prophet
@@ -212,7 +212,7 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>jbo offer classification</mark>  <mark>ML</mark>  <mark>web scraping</mark> 
+          <mark>job offer classification</mark>  <mark>ML</mark>  <mark>web scraping</mark> 
           
           - working on a job classification project ["Is this an offer for a Data scientist"](http://smarterpoland.pl/index.php/2017/01/is-it-a-job-offer-for-a-data-scientist/)
           - helping with whyR 2017 conference organization
