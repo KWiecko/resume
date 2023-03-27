@@ -30,10 +30,10 @@ linkedin_username: konrad-więcko-88a81010b
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_li.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Konrad and I a data scientist / machine learning engineer.  
+  Hi, my name is Konrad and I a data scientist / machine learning engineer. Currently working as a co-developer of Improve AI (https://improve.ai/) - a fast and lightweight RL-based recommendation engine technology.  
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+#  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
