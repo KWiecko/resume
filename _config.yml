@@ -84,7 +84,15 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - <img src="images/python.png" width="25" height="25" /> <mark>Python3.8+</mark>:  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>dask</mark>  <mark>matplotlib</mark>  <mark>coba</mark>  <mark>boto3</mark>
+          <mark>Reinforcement Learning</mark>  <mark>Multi-armed Contextual Bandits</mark>  <mark>ML</mark>
+          
+          
+          Co-developing fast, <mark>AWS</mark> based recommendation platform for JSON encodable data. Contributing significantly at every stage of platform development to platform's [python SDK](https://github.com/improve-ai/python-ranker), [AWS modules](https://github.com/improve-ai/tracker) 
+          and ML models training and deployment. Responsible fully for SDK development as well as development, debugging, optimization and deployment of data ingestion pipeline and assisting with development, training, testing, debugging and deployment of RL training process and models.
+          Assuring quality and consistency of predictions across multiple platforms and languages. Currently product is reaching a stable release version. Working directly with CTO / founder / solution architect (managed 1 additional developer along the way for a while).
+            
+             
+            - <img src="images/python.png" width="25" height="25" /> <mark>Python3.8+</mark>:  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>dask</mark>  <mark>fastparquet</mark>  <mark>matplotlib</mark>  <mark>coba</mark>  <mark>boto3</mark>  <mark>pytest</mark>  <mark>tox</mark>
           
             - <img src="images/aws.png" width="25" height="25" /> <mark>SageMaker</mark>:  <mark>Lambda</mark>  <mark>S3</mark>  <mark>ECR</mark>  <mark>StepFunctions</mark>  <mark>Firehose</mark>  <mark>serverless</mark>
 
