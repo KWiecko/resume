@@ -104,6 +104,29 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Side projects
+#        link: mbank
+#        link_text: https://www.mbank.pl/
+        sub_title: Deep Learning / Computer Vision
+        caption: March 2021 - until now
+#        quote: >
+#          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          <mark>DL</mark>  <mark>computer vision</mark>  <mark>time series analysis</mark>  
+          
+          - image segmentation for agriculture [](https://www.agriculture-vision.com/); integration of trainer model with DJI drone via video streaming 
+          - Steam games sales prediction with LSTM - from automated data scraping and storing in PostgreSQL DB to LSTM-based model training; github will be available soon
+          - finalist of the [CUValleyHack 2021](https://2021.cuvalley.com/) - muchDS team
+             
+          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.7.9</mark>:  <mark>tensorflow</mark>  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>matplotlib</mark>  <mark>Beautiful Soup</mark>  <mark>pytest</mark>  <mark>tox</mark>
+          
+          <img src="images/db_logo.jpg" width="25" height="25" /> <mark>DB stack</mark>:  <mark>PostgreSQL</mark>
+
+
+  - title:  #  Experience and Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
         title: mBank
         link: mbank
         link_text: https://www.mbank.pl/
