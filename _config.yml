@@ -49,8 +49,8 @@ additional_links:
 about_profile_image: images/profile_li.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Machine learning engineer / Data scientist. 6+ years of professional ML / DS experience working for brands like Samsung, mBank and PKN Orlen. 
-  Currently working as a co-developer of Improve AI (https://improve.ai/) - a fast and lightweight RL-based recommendation engine technology.
-  Passionate about combining Computer Vision and UAV / drone tech. 
+  Currently working as a co-developer of [Improve AI](https://improve.ai/) - a fast and lightweight RL-based recommendation engine.
+  Passionate about combining Computer Vision with UAV / drone tech. 
 
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -89,7 +89,7 @@ content:
           <mark>reinforcement learning</mark>  <mark>multi-armed contextual bandits</mark>  <mark>ML</mark>
           
           
-          Co-developing fast, <mark>AWS</mark> based recommendation platform for JSON encodable data. Working directly with CTO / founder / solution architect (managed 1 additional developer along the way for a while).
+          Co-developing fast, AWS based recommendation platform for JSON encodable data. Working directly with CTO / founder / solution architect (managed 1 additional developer along the way for a while).
           Contributing significantly at the every stage of platform's development:
           - [python SDK](https://github.com/improve-ai/python-ranker) - development and testing
           - [AWS platform](https://github.com/improve-ai/tracker) - development, optimization, testing and deployment of various components (data ingestion, orchestration, dockerization)
@@ -112,7 +112,7 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>deep learning</mark>  <mark>computer vision</mark>  <mark>time series analysis</mark>  <mark>web scraping</mark>
+          <mark>deep learning</mark>  <mark>computer vision</mark>  <mark>u-net</mark>  <mark>fpn</mark>  <mark>time series analysis</mark>  <mark>web scraping</mark>
           
           - image segmentation for agriculture [](https://www.agriculture-vision.com/); integration of trainer model with DJI drone via video streaming 
           - Steam games sales prediction with LSTM - from automated data scraping and storing in PostgreSQL DB to LSTM-based model training; github will be available soon
@@ -128,7 +128,7 @@ content:
     content:
       - layout: left
         title: mBank
-        link: mbank
+        link: mBank
         link_text: https://www.mbank.pl/
         sub_title: Machine Learning Engineer / Data Scientist
         caption: July 2019 - August 2021
@@ -167,9 +167,9 @@ content:
           
             
              
-          <img src="images/r_logo.jpg" width="25" height="25" />  <mark>R</mark>:  <mark>tidyr</mark>  <mark>glm</mark>
+          <img src="images/r_logo.png" width="25" height="25" />  <mark>R</mark>:  <mark>tidyr</mark>  <mark>glm</mark>
           
-          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.7.9</mark>:  <mark>Python3.7.9</mark>  <mark>lifelines</mark>  <mark>pandas</mark>  <mark>matplotlib</mark>
+          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.7.9</mark>:  <mark>lifelines</mark>  <mark>pandas</mark>  <mark>matplotlib</mark>
           
           <img src="images/db_logo.jpg" width="25" height="25" /> <mark>DB stack</mark>:  <mark>T-SQL</mark>  <mark>MS ML/R-Services</mark>  <mark>MS SSIS</mark>  <mark>MS SQL Server 2016</mark>
 
