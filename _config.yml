@@ -94,32 +94,31 @@ content:
           - RL / ML models training and deployment - development of distributed training pipeline, debugging, model validation, testing and deployment (e.g. cross-platform predictions consistency)
             
              
-          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.8+</mark>:  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>dask</mark>  <mark>cython</mark>  <mark>fastparquet</mark>  <mark>matplotlib</mark>  <mark>coba</mark>  <mark>boto3</mark>  <mark>pytest</mark>  <mark>tox</mark>
+          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.8+</mark>:  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>dask</mark>  <mark>dask-ml</mark>  <mark>cython</mark>  <mark>fastparquet</mark>  <mark>matplotlib</mark>  <mark>coba</mark>  <mark>boto3</mark>  <mark>pytest</mark>  <mark>tox</mark>
           
           <img src="images/aws.png" width="25" height="25" /> <mark>AWS</mark>:  <mark>SageMaker</mark>  <mark>Lambda</mark>  <mark>S3</mark>  <mark>ECR</mark>  <mark>StepFunctions</mark>  <mark>Firehose</mark>  <mark>serverless</mark>
 
       - layout: left
         title: mBank
-        link: Improve AI
-        link_text: https://improve.ai
+        link: mbank
+        link_text: https://www.mbank.pl/
         sub_title: Machine Learning Engineer / Data Scientist
-        caption: September 2020 - Present
+        caption: July 2019 - August 2021
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>Reinforcement Learning</mark>  <mark>Multi-armed Contextual Bandits</mark>  <mark>ML</mark>
+          <mark>ML</mark>  <mark>churn prediction</mark>  <mark>time series analysis</mark>  <mark>process mining</mark>  <mark>process optimization</mark>
           
+          Involved in following topics:
+          - corporate client churn prediction - fully responsible for development of a robust time series <mark>XGBoost</mark> classifier (~30% precision / ~50% recall); Extensive sklearn's API usage to combine an entire process into a single pipelines; Actively participated in production deployment and monitoring
+          - process optimization - developed and deployed multiple data transformation and ingestion pipelines (bank's data warehouse &rarr; process mining tool LanaLabs via REST API); Automation of bank's job scheduler config creation
+          - responsible for developing and maintaining an ad-hoc, internally hosted CoVid-19 shiny report for bank's management 
           
-          Co-developing fast, <mark>AWS</mark> based recommendation platform for JSON encodable data. Working directly with CTO / founder / solution architect (managed 1 additional developer along the way for a while).
-          Contributing significantly at every stage of platform's development:
-          - [python SDK](https://github.com/improve-ai/python-ranker) - fully responsible for development and testing
-          - [AWS modules](https://github.com/improve-ai/tracker) - responsible for development, optimization, testing and deployment of various components (data ingestion, training dispatching, dockerization)
-          - RL / ML models training and deployment - development of distributed training pipeline, debugging, model validation, testing and deployment (e.g. cross-platform predictions consistency)
             
              
-          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.8+</mark>:  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>dask</mark>  <mark>cython</mark>  <mark>fastparquet</mark>  <mark>matplotlib</mark>  <mark>coba</mark>  <mark>boto3</mark>  <mark>pytest</mark>  <mark>tox</mark>
+          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.7.9</mark>:  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>ts-fresh</mark>  <mark>pyod</mark>  <mark>ta</mark>  <mark>scikit-learn</mark>  <mark>matplotlib</mark>  <mark>pytest</mark>  <mark>tox</mark>
           
-          <img src="images/aws.png" width="25" height="25" /> <mark>AWS</mark>:  <mark>SageMaker</mark>  <mark>Lambda</mark>  <mark>S3</mark>  <mark>ECR</mark>  <mark>StepFunctions</mark>  <mark>Firehose</mark>  <mark>serverless</mark>
+          <img src="images/db_logo.jpg" width="25" height="25" /> <mark>DB stack</mark>:  <mark>SageMaker</mark>  <mark>Lambda</mark>  <mark>S3</mark>  <mark>ECR</mark>  <mark>StepFunctions</mark>  <mark>Firehose</mark>  <mark>serverless</mark>
 
 
   - title: Education # Title for the section
