@@ -162,7 +162,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <mark>fuel quality prediction</mark>  <mark>Cox regression</mark>  <mark>data warehouse development</mark> 
           
-          - data warehouse development - developing database structure and ETL jobs for PKN Orlen's logistics department; ETL processes started at *.csv or *.pdf files level 
+          - data warehouse development - developing database structure and ETL jobs for largest polish petroleum firm logistics department; ETL processes started at *.csv or *.pdf files level 
           - fuel quality prediction - development of R-based regression model and deployment with MS SQLServer Machine Learning / R Services for live predictions
           - Cox model development for fuel filters survivability prediction  
           
