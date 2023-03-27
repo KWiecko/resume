@@ -12,7 +12,7 @@ email: konrad.wiecko@gmail.com
 website: https://kwiecko.github.io/resume/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 #twitter_username: facespics
@@ -77,7 +77,7 @@ content:
     content:
       - layout: left
         title: Improve AI
-#        link: Improve AI
+        link: Improve AI
         link_text: https://improve.ai
         sub_title: Machine Learning Engineer / Data Scientist
         caption: September 2020 - Present
