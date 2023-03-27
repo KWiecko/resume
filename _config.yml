@@ -104,7 +104,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Side projects
+        title: Additional projects
 #        link: mbank
 #        link_text: https://www.mbank.pl/
         sub_title: Deep Learning / Computer Vision
