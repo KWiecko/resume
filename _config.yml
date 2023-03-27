@@ -87,8 +87,6 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>reinforcement learning</mark>  <mark>multi-armed contextual bandits</mark>  <mark>ML</mark>
-          
           
           Co-developing fast, AWS based recommendation platform for JSON encodable data. Working directly with CTO / founder / solution architect (managed 1 additional developer along the way for a while).
           Contributing significantly at the every stage of platform's development:
@@ -96,6 +94,7 @@ content:
           - [AWS platform](https://github.com/improve-ai/tracker) - development, optimization, testing and deployment of various components (data ingestion, orchestration, dockerization)
           - RL / ML models training and deployment - development of distributed training pipeline, debugging, model validation, testing and deployment (e.g. cross-platform predictions consistency)
             
+          <mark>reinforcement learning</mark>  <mark>multi-armed contextual bandits</mark>  <mark>ML</mark>
              
           <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.8+</mark>:  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>dask</mark>  <mark>dask-ml</mark>  <mark>cython</mark>  <mark>fastparquet</mark>  <mark>matplotlib</mark>  <mark>coba</mark>  <mark>boto3</mark>  <mark>pytest</mark>  <mark>tox</mark>
           
@@ -113,11 +112,12 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>deep learning</mark>  <mark>computer vision</mark>  <mark>u-net</mark>  <mark>fpn</mark>  <mark>time series analysis</mark>  <mark>web scraping</mark>
-          
+
           - image segmentation for agriculture [](https://www.agriculture-vision.com/); integration of trainer model with DJI drone via video streaming
           - Steam games sales prediction with LSTM - from automated data scraping and storing in PostgreSQL DB to LSTM-based model training; github will be available soon
           - finalist of the [CUValleyHack 2021](https://2021.cuvalley.com/) - muchDS team
+          
+          <mark>deep learning</mark>  <mark>computer vision</mark>  <mark>u-net</mark>  <mark>fpn</mark>  <mark>time series analysis</mark>  <mark>web scraping</mark>
              
           <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.7.9</mark>:  <mark>tensorflow</mark>  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>matplotlib</mark>  <mark>Beautiful Soup</mark>  <mark>pytest</mark>  <mark>tox</mark>
           
@@ -136,13 +136,12 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>ML</mark>  <mark>churn prediction</mark>  <mark>time series analysis</mark>  <mark>process mining</mark>  <mark>process optimization</mark>
           
           - corporate client churn prediction - fully responsible for development of a robust time series <mark>XGBoost</mark> classifier (~30% precision / ~50% recall); Extensive sklearn's API usage to combine an entire process into a single pipelines; Actively participated in production deployment and monitoring
           - process optimization - developed and deployed multiple data transformation and ingestion pipelines (bank's DW &rarr; process mining tool LanaLabs via REST API); Automation of bank's job scheduler config creation
           - responsible for developing and maintaining an ad-hoc, internally hosted CoVid-19 R-Shiny report for bank's management 
           
-            
+          <mark>ML</mark>  <mark>churn prediction</mark>  <mark>time series analysis</mark>  <mark>process mining</mark>  <mark>process optimization</mark>
              
           <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.7.9</mark>:  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>ts-fresh</mark>  <mark>pyod</mark>  <mark>ta</mark>  <mark>scikit-learn</mark>  <mark>matplotlib</mark>  <mark>pytest</mark>  <mark>tox</mark>
           
@@ -160,13 +159,12 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>fuel quality prediction</mark>  <mark>Cox regression</mark>  <mark>data warehouse development</mark> 
           
           - data warehouse development - developing database structure and ETL jobs for PKN Orlen's logistics department; ETL processes started at *.csv or *.pdf files level 
           - fuel quality prediction - development of R-based regression model and deployment with MS SQLServer Machine Learning / R Services for live predictions
           - Cox model development for fuel filters survivability prediction  
           
-            
+          <mark>fuel quality prediction</mark>  <mark>Cox regression</mark>  <mark>data warehouse development</mark> 
              
           <img src="images/r_logo.png" width="25" height="25" />  <mark>R</mark>:  <mark>tidyr</mark>  <mark>glm</mark>
           
@@ -186,13 +184,13 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>predictive autoscaling</mark>  <mark>predictive cloud maintenance</mark>  <mark>churn prediction</mark>  <mark>ML</mark> 
           
           - developing mobile assistant (Bixby) log-based analytical use cases (churn prediction, user activity prediction) on local and cloud infrastructure
           - development of predictive analytics for cloud infrastructure (disk usage prediction) using various approaches, e.g. Holt-Winters, ARIMA, Prophet
           - development of automatic autoscaling PoC for openstack compute following this [paper](https://ieeexplore.ieee.org/document/7892598); 
           PoC included automatic cluster spawning, applying load and autoscaling, models were trained using metrics from [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).
           
+          <mark>predictive autoscaling</mark>  <mark>predictive cloud maintenance</mark>  <mark>churn prediction</mark>  <mark>ML</mark> 
              
           <img src="images/r_logo.png" width="25" height="25" />  <mark>R</mark>:  <mark>ets</mark>  <mark>tidyr</mark>  <mark>ggplot</mark>
           
@@ -213,11 +211,11 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>job offer classification</mark>  <mark>ML</mark>  <mark>web scraping</mark> 
           
           - working on a job classification project ["Is this an offer for a Data scientist"](http://smarterpoland.pl/index.php/2017/01/is-it-a-job-offer-for-a-data-scientist/)
           - helping with whyR 2017 conference organization
-          
+
+          <mark>job offer classification</mark>  <mark>ML</mark>  <mark>web scraping</mark> 
              
           <img src="images/r_logo.png" width="25" height="25" />  <mark>R</mark>:  <mark>XGBoost</mark>  <mark>randomForest</mark>  <mark>glm</mark>  <mark>tidyr</mark>  <mark>ggplot</mark>  <mark>web scraping</mark>
           
