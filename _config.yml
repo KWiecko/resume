@@ -84,7 +84,8 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.8+<mark/> <mark>XGBoost<mark/> <mark>numpy<mark/> <mark>pandas<mark/> <mark>dask<mark/> <mark>matplotlib<mark/> <mark>coba<mark/> <mark>boto3<mark/>
+            - <img src="images/python.jpg" width="25" height="25" />  <mark>Python3.8+<mark/>  <mark>XGBoost<mark/>  <mark>numpy<mark/>  <mark>pandas<mark/>  <mark>dask<mark/>  <mark>matplotlib<mark/>  <mark>coba<mark/>  <mark>boto3<mark/>
+          
             - <img src="images/aws.png" width="25" height="25" /> <mark>SageMaker<mark/> <mark>Lambda<mark/> <mark>S3<mark/> <mark>ECR<mark/> <mark>StepFunctions<mark/> <mark>Firehose<mark/> <mark>serverless<mark/>
 
   - title: Education # Title for the section
