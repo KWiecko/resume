@@ -53,30 +53,53 @@ about_content: | # this will include new lines to allow paragraphs
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+#  - title: Projects # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: top-middle
+#        title: Super awesome project
+#        link: github.com/sproogen
+#        # link_text: Project Website
+#        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+#            url: github.com/sproogen/modern-resume-theme
+#          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#          #   icon: fab fa-github
+#          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#        quote: >
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#        description: | # this will include new lines to allow paragraphs
+#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience and Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Improve AI
+#        link: Improve AI
+        link_text: https://improve.ai
+        sub_title: Machine Learning Engineer / Data Scientist
+        caption: September 2020 - Present
+#        quote: >
+#          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          <mark>Reinforcement Learning</mark>  <mark>Multi-armed Contextual Bandits</mark>  <mark>ML</mark>
+          
+          
+          Co-developing fast, <mark>AWS</mark> based recommendation platform for JSON encodable data. Working directly with CTO / founder / solution architect (managed 1 additional developer along the way for a while).
+          Contributing significantly at the every stage of platform's development:
+          - [python SDK](https://github.com/improve-ai/python-ranker) - development and testing
+          - [AWS platform](https://github.com/improve-ai/tracker) - development, optimization, testing and deployment of various components (data ingestion, orchestration, dockerization)
+          - RL / ML models training and deployment - development of distributed training pipeline, debugging, model validation, testing and deployment (e.g. cross-platform predictions consistency)
+            
+             
+          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.8+</mark>:  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>dask</mark>  <mark>cython</mark>  <mark>fastparquet</mark>  <mark>matplotlib</mark>  <mark>coba</mark>  <mark>boto3</mark>  <mark>pytest</mark>  <mark>tox</mark>
+          
+          <img src="images/aws.png" width="25" height="25" /> <mark>AWS</mark>:  <mark>SageMaker</mark>  <mark>Lambda</mark>  <mark>S3</mark>  <mark>ECR</mark>  <mark>StepFunctions</mark>  <mark>Firehose</mark>  <mark>serverless</mark>
+
+      - layout: left
+        title: mBank
         link: Improve AI
         link_text: https://improve.ai
         sub_title: Machine Learning Engineer / Data Scientist
@@ -94,9 +117,10 @@ content:
           - RL / ML models training and deployment - development of distributed training pipeline, debugging, model validation, testing and deployment (e.g. cross-platform predictions consistency)
             
              
-          <img src="images/python.png" width="25" height="25" /> <mark>Python3.8+</mark>:  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>dask</mark>  <mark>cython</mark>  <mark>fastparquet</mark>  <mark>matplotlib</mark>  <mark>coba</mark>  <mark>boto3</mark>  <mark>pytest</mark>  <mark>tox</mark>
+          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.8+</mark>:  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>dask</mark>  <mark>cython</mark>  <mark>fastparquet</mark>  <mark>matplotlib</mark>  <mark>coba</mark>  <mark>boto3</mark>  <mark>pytest</mark>  <mark>tox</mark>
           
           <img src="images/aws.png" width="25" height="25" /> <mark>AWS</mark>:  <mark>SageMaker</mark>  <mark>Lambda</mark>  <mark>S3</mark>  <mark>ECR</mark>  <mark>StepFunctions</mark>  <mark>Firehose</mark>  <mark>serverless</mark>
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
