@@ -87,7 +87,7 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>reinforcement learning</mark>  <mark>multi-armed contextual bandits</mark>  <mark>ML</mark>
+          <mark>reinforcement learning</mark>  <mark>multi-armed contextual bandits</mark>  <mark>ML</mark> <mark>docker</mark> 
           
           
           Co-developing fast, AWS based recommendation platform for JSON encodable data. Working directly with CTO / founder / solution architect (managed 1 additional developer along the way for a while).
@@ -113,7 +113,7 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>deep learning</mark>  <mark>computer vision</mark>  <mark>u-net</mark>  <mark>fpn</mark>  <mark>time series analysis</mark>  <mark>web scraping</mark>
+          <mark>deep learning</mark>  <mark>computer vision</mark>  <mark>u-net</mark>  <mark>fpn</mark>  <mark>time series analysis</mark>  <mark>web scraping</mark> <mark>docker</mark> <mark>docker-compose</mark>
           
           - image segmentation for agriculture [](https://www.agriculture-vision.com/); integration of the trained model with DJI drone via video streaming
           - Steam games sales prediction with LSTM - from automated data scraping and storing in PostgreSQL DB to LSTM-based model training; github will be available soon
