@@ -80,7 +80,7 @@ content:
     content:
       - layout: left
         title: Improve AI
-        link: Improve AI
+        link: https://improve.ai
         link_text: https://improve.ai
         sub_title: Machine Learning Engineer / Data Scientist
         caption: September 2020 - Present
@@ -129,7 +129,7 @@ content:
     content:
       - layout: left
         title: mBank
-        link: mBank
+        link: https://www.mbank.pl/
         link_text: https://www.mbank.pl/
         sub_title: Machine Learning Engineer / Data Scientist
         caption: July 2019 - August 2021
@@ -153,7 +153,7 @@ content:
     content:
       - layout: left
         title: BD Polska
-        link: BD Polska
+        link: https://bdpolska.com/
         link_text: https://bdpolska.com/
         sub_title: Data Scientist / Data Engineer
         caption: June 2018 - June 2019
@@ -179,7 +179,7 @@ content:
     content:
       - layout: left
         title: Samsung R&D Institute Poland
-        link: Samsung R&D Institute Poland
+        link: https://samsungrd.pl/
         link_text: https://samsungrd.pl/
         sub_title: Junior ML Engineer / AI Engineer
         caption: June 2017 - June 2018
@@ -206,7 +206,7 @@ content:
     content:
       - layout: left
         title: MI^2 Data Lab
-        link: MI^2 Data Lab
+        link: https://www.mi2.ai/
         link_text: https://www.mi2.ai/
         sub_title: ML intern
         caption: February 2016 - June 2017
@@ -229,7 +229,7 @@ content:
     content:
       - layout: left
         title: Air force Institute of Technology
-        link: Air force Institute of Technology
+        link: https://itwl.pl/
         link_text: https://itwl.pl/
         sub_title: R&D Engineer
         caption: November 2015 - December 2019
