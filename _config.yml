@@ -9,7 +9,7 @@ version: 2
 name: Konrad Wiecko
 title: Machine Learning Engineer / Data Scientist
 email: konrad.wiecko@gmail.com
-website: https://kwiecko.github.io/resume/
+#website: https://kwiecko.github.io/resume/
 location: Warsaw, Poland
 
 # Dark Mode (true/false/never)
@@ -31,10 +31,10 @@ linkedin_username: konrad-więcko-88a81010b
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: upwork.com
-  icon: fas fa-globe
-  url: https://www.upwork.com/freelancers/~011ad5169826c1c47f?viewMode=1
+#additional_links:
+#- title: upwork.com
+#  icon: fas fa-globe
+#  url: https://www.upwork.com/freelancers/~011ad5169826c1c47f?viewMode=11
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,8 +49,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_li.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Machine learning engineer / Data scientist. 6+ years of professional ML / DS experience working for brands like Samsung, mBank and PKN Orlen. 
-  Currently working as a co-developer of [Improve AI](https://improve.ai/) - a fast and lightweight RL-based recommendation engine.
+  Machine learning engineer / Data scientist. 6+ years of professional ML / DS experience working for brands like Samsung, mBank and largest polish petroleum company. 
+  Most recently worked as a ML engineer for [Improve AI](https://improve.ai/) project - a fast and lightweight RL-based recommendation engine.
   Passionate about combining Computer Vision with UAV / drone tech. 
 
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
@@ -83,14 +83,14 @@ content:
         link: https://improve.ai
         link_text: https://improve.ai
         sub_title: Machine Learning Engineer / Data Scientist
-        caption: September 2020 - Present
+        caption: September 2020 - July 2023
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           <mark>reinforcement learning</mark>  <mark>multi-armed contextual bandits</mark>  <mark>ML</mark> <mark>docker</mark> 
           
           
-          Co-developing fast, AWS based recommendation platform for JSON encodable data. Working directly with CTO / founder / solution architect (managed 1 additional developer along the way for a while).
+          ML engineer working on fast, AWS based recommendation platform for JSON encodable data. Working directly with CTO / founder / solution architect (managed 1 additional developer along the way for a while).
           Contributing significantly at the every stage of platform's development:
           - [python SDK](https://github.com/improve-ai/python-ranker) - development and testing
           - [AWS platform](https://github.com/improve-ai/tracker) - development, optimization, testing and deployment of various components (data ingestion, orchestration, dockerization)
