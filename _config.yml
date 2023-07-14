@@ -97,7 +97,7 @@ content:
           components: dockerfiles, deployment to AWS, orchestration, data ingestion pipelines and  dask distributed SageMaker training pipelines 
           - RL / ML models training, evaluation, debugging, testing and cross-platform validation
           - development and testing of a [python SDK](https://github.com/improve-ai/python-ranker) 
-          ([improveai](https://pypi.org/project/improveai/) pypi package) which allows for Python and AWS platform interaction 
+          ([improveai](https://pypi.org/project/improveai/) pypi package) which allows for Python and [AWS platform](https://github.com/improve-ai/tracker-trainer) interaction 
           
             
              
