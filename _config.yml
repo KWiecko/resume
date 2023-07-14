@@ -141,7 +141,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img src="images/topics.png" width="25" height="25" />  <mark>ML</mark>  <mark>churn prediction</mark>  <mark>time series</mark>  <mark>process mining</mark>  <mark>process optimization</mark>
           
-          - corporate client churn prediction - fully responsible for development of a robust time series <mark>XGBoost</mark> classifier (~30% precision / ~50% recall); Extensive sklearn's API usage to combine an entire process into a single pipelines; Actively participated in production deployment and monitoring
+          - corporate client churn prediction - fully responsible for development of a robust time series classifier (~30% precision / ~50% recall); Extensive sklearn's API usage to combine an entire process into a single pipelines; Actively participated in production deployment and monitoring
           - process optimization - developed and deployed multiple data transformation and ingestion pipelines (bank's DW &rarr; process mining tool LanaLabs via REST API); Automation of bank's job scheduler config creation
           - development, deployment and maintenance of an ad-hoc, internal CoVid-19 R-Shiny report for bank’s management 
           
