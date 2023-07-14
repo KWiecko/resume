@@ -49,9 +49,10 @@ linkedin_username: konrad-więcko-88a81010b
 # about_title: About Me
 about_profile_image: images/profile_li.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Machine learning engineer / Data scientist. 6+ years of professional ML / DS experience working for brands like Samsung, mBank and largest polish petroleum company. 
-  Most recently worked as a ML engineer for [Improve AI](https://improve.ai/) project - a fast and lightweight RL-based recommendation engine.
-  Passionate about combining Computer Vision with UAV / drone tech. 
+  7+ years of professional ML / DS experience working for brands like Samsung, 
+  mBank and largest polish petroleum company. Most recently worked as a ML engineer 
+  in the [Improve AI](https://improve.ai/) project - a fast and lightweight RL-based recommendation engine. 
+  Passionate about combining Computer Vision with UAV / drone tech.
 
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -87,17 +88,19 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>reinforcement learning</mark>  <mark>multi-armed contextual bandits</mark>  <mark>ML</mark> <mark>docker</mark> 
+          <img src="images/topics.png" width="25" height="25" />  <mark>reinforcement learning</mark>  <mark>multi-armed contextual bandits</mark>  <mark>ML</mark> <mark>docker</mark> <mark>weighted importance sampling</mark>
           
           
-          ML engineer working on fast, AWS based recommendation platform for JSON encodable data. Working directly with CTO / founder / solution architect (managed 1 additional developer along the way for a while).
-          Contributing significantly at the every stage of platform's development:
-          - [python SDK](https://github.com/improve-ai/python-ranker) - development and testing
-          - [AWS platform](https://github.com/improve-ai/tracker) - development, optimization, testing and deployment of various components (data ingestion, orchestration, dockerization)
-          - RL / ML models training and deployment - development of distributed training pipeline, debugging, model validation, testing and deployment (e.g. cross-platform predictions consistency)
+          Worked directly with a CTO / owner on a lightweight, scalable, AWS based recommendation platform with multiple SDKs:
+          - development, testing, optimization, deployment and maintenance of all [AWS platform](https://github.com/improve-ai/tracker-trainer) 
+          components: dockerfiles, deployment to AWS, orchestration, data ingestion pipelines and  dask distributed SageMaker training pipelines 
+          - RL / ML models training, evaluation, debugging, testing and cross-platform validation
+          - development and testing of a [python SDK](https://github.com/improve-ai/python-ranker) 
+          ([improveai](https://pypi.org/project/improveai/) pypi package) which allows for Python and AWS platform interaction 
+          
             
              
-          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.8+</mark>:  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>dask</mark>  <mark>dask-ml</mark>  <mark>cython</mark>  <mark>fastparquet</mark>  <mark>matplotlib</mark>  <mark>coba</mark>  <mark>boto3</mark>  <mark>pytest</mark>  <mark>tox</mark>
+          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.8+</mark>:  <mark>xgboost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>dask</mark>  <mark>dask-ml</mark>  <mark>cython</mark>  <mark>coba</mark>  <mark>fastparquet</mark>  <mark>matplotlib</mark>  <mark>boto3</mark>  <mark>pytest</mark>  <mark>tox</mark>
           
           <img src="images/aws.png" width="25" height="25" /> <mark>AWS</mark>:  <mark>SageMaker</mark>  <mark>Lambda</mark>  <mark>S3</mark>  <mark>ECR</mark>  <mark>StepFunctions</mark>  <mark>Firehose</mark>  <mark>serverless</mark>
 
@@ -113,13 +116,13 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>deep learning</mark>  <mark>computer vision</mark>  <mark>u-net</mark>  <mark>fpn</mark>  <mark>time series analysis</mark>  <mark>web scraping</mark> <mark>docker</mark> <mark>docker-compose</mark>
+          <img src="images/topics.png" width="25" height="25" />  <mark>deep learning</mark>  <mark>computer vision</mark>  <mark>u-net</mark>  <mark>fpn</mark>  <mark>time series</mark>  <mark>web scraping</mark>  <mark>docker</mark>  <mark>docker-compose</mark>  <mark>RTMP</mark>  <mark>RPi</mark>  <mark>navio2</mark>
           
-          - image segmentation for agriculture [](https://www.agriculture-vision.com/); integration of the trained model with DJI drone via video streaming
-          - Steam games sales prediction with LSTM - from automated data scraping and storing in PostgreSQL DB to LSTM-based model training; github will be available soon
+          - [image segmentation for agriculture](https://gitlab.com/KWiecko/curious-look-twice), integration of the trained model with RTMP DJI drone video stream
+          - [steam games sales prediction](https://gitlab.com/aig-analytics) – from automated data scraping and storing in PostgreSQL DB to LSTM-based models
           - finalist of the [CUValleyHack 2021](https://2021.cuvalley.com/) - muchDS team
              
-          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.7.9</mark>:  <mark>tensorflow</mark>  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>matplotlib</mark>  <mark>Beautiful Soup</mark>  <mark>pytest</mark>  <mark>tox</mark>
+          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.7.9</mark>:  <mark>tensorflow</mark>  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>matplotlib</mark>  <mark>dagster</mark>  <mark>Beautiful Soup</mark>  <mark>pytest</mark>  <mark>tox</mark>
           
           <img src="images/db_logo.jpg" width="25" height="25" /> <mark>DB stack</mark>:  <mark>PostgreSQL</mark>
 
@@ -136,15 +139,15 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>ML</mark>  <mark>churn prediction</mark>  <mark>time series analysis</mark>  <mark>process mining</mark>  <mark>process optimization</mark>
+          <img src="images/topics.png" width="25" height="25" />  <mark>ML</mark>  <mark>churn prediction</mark>  <mark>time series</mark>  <mark>process mining</mark>  <mark>process optimization</mark>
           
           - corporate client churn prediction - fully responsible for development of a robust time series <mark>XGBoost</mark> classifier (~30% precision / ~50% recall); Extensive sklearn's API usage to combine an entire process into a single pipelines; Actively participated in production deployment and monitoring
           - process optimization - developed and deployed multiple data transformation and ingestion pipelines (bank's DW &rarr; process mining tool LanaLabs via REST API); Automation of bank's job scheduler config creation
-          - responsible for developing and maintaining an ad-hoc, internally hosted CoVid-19 R-Shiny report for bank's management 
+          - development, deployment and maintenance of an ad-hoc, internal CoVid-19 R-Shiny report for bank’s management 
           
             
              
-          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.7.9</mark>:  <mark>XGBoost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>ts-fresh</mark>  <mark>pyod</mark>  <mark>ta</mark>  <mark>scikit-learn</mark>  <mark>matplotlib</mark>  <mark>pytest</mark>  <mark>tox</mark>
+          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.7.9</mark>:  <mark>XGBoost</mark>  <mark>scikit-learn</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>ts-fresh</mark>  <mark>pyod</mark>  <mark>ta</mark>  <mark>matplotlib</mark>  <mark>pytest</mark>  <mark>tox</mark>
           
           <img src="images/db_logo.jpg" width="25" height="25" /> <mark>DB stack</mark>:  <mark>Oracle</mark>  <mark>PL/SQL</mark>  <mark>Hive</mark>
 
@@ -160,10 +163,10 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>fuel quality prediction</mark>  <mark>Cox regression</mark>  <mark>data warehouse development</mark> 
+          <img src="images/topics.png" width="25" height="25" />  <mark>fuel quality prediction</mark>  <mark>Cox regression</mark>  <mark>data warehouse development</mark> 
           
-          - data warehouse development - developing database structure and ETL jobs for largest polish petroleum firm logistics department; ETL processes started at *.csv or *.pdf files level 
-          - fuel quality prediction - development of R-based regression model and deployment with MS SQLServer Machine Learning / R Services for live predictions
+          - developing data warehouse structure and ETL jobs (from *.csv or *.pdf files level) for largest polish petroleum firm 
+          - training of fuel quality prediction model (R) and deployment to MS SQLServer ML/ R Services for live predictions
           - Cox model development for fuel filters survivability prediction  
           
             
@@ -186,12 +189,11 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>predictive autoscaling</mark>  <mark>predictive cloud maintenance</mark>  <mark>churn prediction</mark>  <mark>ML</mark> 
+          <img src="images/topics.png" width="25" height="25" />  <mark>predictive autoscaling</mark>  <mark>predictive cloud maintenance</mark>  <mark>churn prediction</mark>  <mark>ML</mark> 
           
+          - predictive auto-scaling PoC for OpenStack → automatic cluster spawning, mocking load and [ML-based](https://ieeexplore.ieee.org/document/7892598) cluster scaling 
+          - disk usage prediction for cloud clients with Holt-Winters, ARIMA and Prophet
           - developing mobile assistant (Bixby) log-based analytical use cases (churn prediction, user activity prediction) on local and cloud infrastructure
-          - development of predictive analytics for cloud infrastructure (disk usage prediction) using various approaches, e.g. Holt-Winters, ARIMA, Prophet
-          - development of automatic autoscaling PoC for openstack compute following this [paper](https://ieeexplore.ieee.org/document/7892598); 
-          PoC included automatic cluster spawning, applying load and autoscaling, models were trained using metrics from [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).
           
              
           <img src="images/r_logo.png" width="25" height="25" />  <mark>R</mark>:  <mark>ets</mark>  <mark>tidyr</mark>  <mark>ggplot</mark>
@@ -213,7 +215,7 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          <mark>job offer classification</mark>  <mark>ML</mark>  <mark>web scraping</mark> 
+          <img src="images/topics.png" width="25" height="25" />  <mark>job offer classification</mark>  <mark>ML</mark>  <mark>web scraping</mark> 
           
           - working on a job classification project ["Is this an offer for a Data scientist"](http://smarterpoland.pl/index.php/2017/01/is-it-a-job-offer-for-a-data-scientist/)
           - helping with whyR 2017 conference organization
@@ -309,7 +311,7 @@ content:
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
