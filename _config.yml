@@ -118,7 +118,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img src="images/topics.png" width="25" height="25" />  <mark>deep learning</mark>  <mark>computer vision</mark>  <mark>u-net</mark>  <mark>fpn</mark>  <mark>time series</mark>  <mark>web scraping</mark>  <mark>docker</mark>  <mark>docker-compose</mark>  <mark>RTMP</mark>  <mark>RPi</mark>  <mark>navio2</mark>
           
-          - [image segmentation for agriculture](https://gitlab.com/KWiecko/curious-look-twice), integration of the trained model with RTMP DJI drone video stream
+          - [image segmentation for agriculture](https://gitlab.com/KWiecko/curious-look-twice) ([Agriculture-Vision 2021 challenge](https://www.agriculture-vision.com/)), integration of the trained model with RTMP DJI drone video stream
           - [steam games sales prediction](https://gitlab.com/aig-analytics) – from automated data scraping and storing in PostgreSQL DB to LSTM-based models
           - finalist of the [CUValleyHack 2021](https://2021.cuvalley.com/) - muchDS team
              
