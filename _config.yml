@@ -199,7 +199,7 @@ content:
              
           <img src="images/r_logo.png" width="25" height="25" />  <mark>R</mark>:  <mark>ets</mark>  <mark>tidyr</mark>  <mark>ggplot</mark>
           
-          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.7.9</mark>:  <mark>statsmodels</mark>  <mark>scikit-learn</mark>  <mark>pandas</mark>  <mark>matplotlib</mark>
+          <img src="images/python.jpg" width="25" height="25" /> <mark>Python2.7+/3.6+</mark>:  <mark>xgboost</mark>  <mark>statsmodels</mark>  <mark>scikit-learn</mark>  <mark>pandas</mark>  <mark>matplotlib</mark>
           
           <img src="images/db_logo.jpg" width="25" height="25" /> <mark>Data stack</mark>:  <mark>Hive</mark>  <mark>Influx</mark>  <mark>Hortonworks Data Platform</mark>  <mark>OpenStack</mark>  <mark>Grafana</mark>
 
