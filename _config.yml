@@ -50,10 +50,9 @@ linkedin_username: konrad-więcko-88a81010b
 # about_title: About Me
 about_profile_image: images/profile_li.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  7+ years of professional ML / DS experience working for brands like Samsung, 
-  mBank and largest polish petroleum company. Most recently worked as a ML engineer 
-  in the [Improve AI](https://improve.ai/) project - a fast and lightweight RL-based recommendation engine. 
-  Passionate about combining Computer Vision with UAV / drone tech.
+  Most recently worked on designing, developing and deploying efficient computer vision algorithms for autonomous flight.
+  Overall 9+ years of professional DL / ML / DS experience working for brands like Samsung, 
+  mBank and largest polish petroleum company. Passionate about combining Computer Vision with UAV / drone tech.
 
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -80,8 +79,26 @@ content:
   - title: Experience and Projects
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Improve AI
+      - title: <Can't disclose>
+        layout: left
+        sub_title: Senior Computer Vision and Software Engineer
+        caption: August 2023 - Present
+        description: |
+          <img src="images/topics.png" width="25" height="25" />  <mark>Real Life UAV application</mark>  <mark>Computer Vision</mark>  <mark>Neural Nets</mark>  <mark>Reinforcement Learning</mark>  <mark>docker</mark>
+
+          - Designed and implemented multi-GPU onject detection training and validation. 
+          - Designed and implemented functional visual navigation code for UAVs
+          - Quantized, optimized, parallelized deployed code on edge devices
+          - Worked with different neural runtimes / accelerators on edge (Coral TPU, Nvidia Jetson Nano (TRT), NCNN)
+          - Ensured proper integration via MAVLink protocol
+          - Deployed all written code to egde          
+          - Analyzed results from test flights on regular basis
+
+          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.9+</mark>:  <mark>pytorch</mark>  <mark>tflite</mark>  <mark>opencv</mark>  <mark>pymavlink</mark>  <mark>nupmy</mark>  <mark>bokeh</mark>  <mark>dask</mark>
+          <img src="images/aws.png" width="25" height="25" /> <mark>sqlite</mark>:  <mark>CVAT</mark>  <mark>S3</mark>
+
+      - title: Improve AI
+        layout: left
         link: https://improve.ai
         link_text: https://improve.ai
         sub_title: Machine Learning Engineer / Data Scientist
