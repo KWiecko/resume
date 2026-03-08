@@ -96,7 +96,10 @@ content:
 
           <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.9+</mark>:  <mark>pytorch</mark>  <mark>tflite</mark>  <mark>opencv</mark>  <mark>pymavlink</mark>  <mark>nupmy</mark>  <mark>bokeh</mark>  <mark>dask</mark>
           
-          <img src="images/aws.png" width="25" height="25" /> <mark>sqlite</mark>:  <mark>CVAT</mark>  <mark>S3</mark>
+          <img src="images/db_logo.jpg" width="25" height="25" /> <mark>DB stack</mark>:  <mark>sqlite</mark>:  <mark>CVAT</mark>
+
+          <img src="images/aws.png" width="25" height="25" />  <mark>S3</mark>
+
 
   - title:  #  Experience and Projects # Title for the section
     layout: list # Type of content section (list/text)
