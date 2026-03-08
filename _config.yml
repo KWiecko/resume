@@ -86,15 +86,16 @@ content:
         description: |
           <img src="images/topics.png" width="25" height="25" />  <mark>Real Life UAV application</mark>  <mark>Computer Vision</mark>  <mark>Neural Nets</mark>  <mark>Reinforcement Learning</mark>  <mark>docker</mark>
 
-          - Designed and implemented multi-GPU onject detection training and validation. 
+          - Designed and implemented multi-GPU onject detection training and validation
           - Designed and implemented functional visual navigation code for UAVs
-          - Quantized, optimized, parallelized deployed code on edge devices
-          - Worked with different neural runtimes / accelerators on edge (Coral TPU, Nvidia Jetson Nano (TRT), NCNN)
+          - Quantized, optimized, parallelized and deployed code on edge devices
+          - Worked with different neural runtimes / accelerators on edge (Coral TPU, Nvidia Jetson Nano + TRT, NCNN)
           - Ensured proper integration via MAVLink protocol
           - Deployed all written code to egde          
           - Analyzed results from test flights on regular basis
 
           <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.9+</mark>:  <mark>pytorch</mark>  <mark>tflite</mark>  <mark>opencv</mark>  <mark>pymavlink</mark>  <mark>nupmy</mark>  <mark>bokeh</mark>  <mark>dask</mark>
+          
           <img src="images/aws.png" width="25" height="25" /> <mark>sqlite</mark>:  <mark>CVAT</mark>  <mark>S3</mark>
 
       - title: Improve AI
