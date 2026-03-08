@@ -98,30 +98,30 @@ content:
           
           <img src="images/aws.png" width="25" height="25" /> <mark>sqlite</mark>:  <mark>CVAT</mark>  <mark>S3</mark>
 
-      - title: Improve AI
-        layout: left
-        link: https://improve.ai
-        link_text: https://improve.ai
-        sub_title: Machine Learning Engineer / Data Scientist
-        caption: September 2020 - July 2023
+  - title: Improve AI
+    layout: left
+    link: https://improve.ai
+    link_text: https://improve.ai
+    sub_title: Machine Learning Engineer / Data Scientist
+    caption: September 2020 - July 2023
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          <img src="images/topics.png" width="25" height="25" />  <mark>reinforcement learning</mark>  <mark>multi-armed contextual bandits</mark>  <mark>ML</mark> <mark>docker</mark> <mark>weighted importance sampling</mark>
+    description: | # this will include new lines to allow paragraphs
+      <img src="images/topics.png" width="25" height="25" />  <mark>reinforcement learning</mark>  <mark>multi-armed contextual bandits</mark>  <mark>ML</mark> <mark>docker</mark> <mark>weighted importance sampling</mark>
+      
+      
+      Worked directly with a CTO / owner on a lightweight, scalable, AWS based recommendation platform with multiple SDKs:
+      - development, testing, optimization, deployment and maintenance of all [AWS platform](https://github.com/improve-ai/tracker-trainer) 
+      components: dockerfiles, deployment to AWS, orchestration, data ingestion pipelines and  dask distributed SageMaker training pipelines 
+      - RL / ML models training, evaluation, debugging, testing and cross-platform validation
+      - development and testing of a [python SDK](https://github.com/improve-ai/python-ranker) 
+      ([improveai](https://pypi.org/project/improveai/) pypi package) which allows for Python and [AWS platform](https://github.com/improve-ai/tracker-trainer) interaction 
+      
+        
           
-          
-          Worked directly with a CTO / owner on a lightweight, scalable, AWS based recommendation platform with multiple SDKs:
-          - development, testing, optimization, deployment and maintenance of all [AWS platform](https://github.com/improve-ai/tracker-trainer) 
-          components: dockerfiles, deployment to AWS, orchestration, data ingestion pipelines and  dask distributed SageMaker training pipelines 
-          - RL / ML models training, evaluation, debugging, testing and cross-platform validation
-          - development and testing of a [python SDK](https://github.com/improve-ai/python-ranker) 
-          ([improveai](https://pypi.org/project/improveai/) pypi package) which allows for Python and [AWS platform](https://github.com/improve-ai/tracker-trainer) interaction 
-          
-            
-             
-          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.8+</mark>:  <mark>xgboost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>dask</mark>  <mark>dask-ml</mark>  <mark>cython</mark>  <mark>coba</mark>  <mark>fastparquet</mark>  <mark>matplotlib</mark>  <mark>boto3</mark>  <mark>pytest</mark>  <mark>tox</mark>
-          
-          <img src="images/aws.png" width="25" height="25" /> <mark>AWS</mark>:  <mark>SageMaker</mark>  <mark>Lambda</mark>  <mark>S3</mark>  <mark>ECR</mark>  <mark>StepFunctions</mark>  <mark>Firehose</mark>  <mark>serverless</mark>
+      <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.8+</mark>:  <mark>xgboost</mark>  <mark>numpy</mark>  <mark>pandas</mark>  <mark>dask</mark>  <mark>dask-ml</mark>  <mark>cython</mark>  <mark>coba</mark>  <mark>fastparquet</mark>  <mark>matplotlib</mark>  <mark>boto3</mark>  <mark>pytest</mark>  <mark>tox</mark>
+      
+      <img src="images/aws.png" width="25" height="25" /> <mark>AWS</mark>:  <mark>SageMaker</mark>  <mark>Lambda</mark>  <mark>S3</mark>  <mark>ECR</mark>  <mark>StepFunctions</mark>  <mark>Firehose</mark>  <mark>serverless</mark>
 
   - title:  #  Experience and Projects # Title for the section
     layout: list # Type of content section (list/text)
