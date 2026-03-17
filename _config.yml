@@ -84,20 +84,22 @@ content:
         sub_title: Senior Computer Vision and Software Engineer
         caption: August 2023 - Present
         description: |
-          <img src="images/topics.png" width="25" height="25" />  <mark>Real Life UAV application</mark>  <mark>Computer Vision</mark>  <mark>Neural Nets</mark>  <mark>YOLO</mark>  <mark>Reinforcement Learning</mark>  <mark>docker</mark>  <mark>ArduPilot</mark>  <mark>MAVLink</mark>  <mark>PX4 + JSBSim SiTL</mark>
-
+          <img src="images/topics.png" width="25" height="25" />  <mark>Computer Vision</mark>  <mark>Neural Nets</mark>  <mark>YOLO</mark>  <mark>Reinforcement Learning</mark>  <mark>docker</mark>  <mark>ArduPilot</mark>  <mark>MAVLink</mark>  <mark>PX4 + JSBSim SiTL</mark>
+          
+          Worked on real-life UAV AI applications tested on actual UAVs:
           - Designed and implemented multi-GPU object detection pipeline for training and validation (YOLO based), deployed to production on edge with NCNN
           - Designed and implemented functional visual navigation code for UAVs
           - Quantized, optimized, parallelized and deployed code on edge devices
           - Worked with different neural runtimes / accelerators on edge (Coral TPU, Nvidia Jetson Nano + TRT, NCNN)
           - Ensured proper integration via MAVLink protocol
-          - Deployed all written code to edge          
-          - Analyzed results from test flights on regular basis
-          - setup PX + JSBSim SiTL
-
-          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.9+</mark>:  <mark>pytorch</mark> <mark>ultralytics</mark>  <mark>tflite</mark>  <mark>opencv</mark>  <mark>pymavlink</mark>  <mark>nupmy</mark>  <mark>bokeh</mark>  <mark>dask</mark>
           
-          <img src="images/db_logo.jpg" width="25" height="25" /> <mark>DB stack</mark>:  <mark>sqlite</mark>:  <mark>CVAT</mark>
+          Additionally:
+          - Analyzed results from test flights on regular basis
+          - Setup PX4 + JSBSim SiTL
+
+          <img src="images/python.jpg" width="25" height="25" /> <mark>Python3.9+</mark>:  <mark>pytorch</mark> <mark>ultralytics</mark>  <mark>tflite</mark>  <mark>opencv</mark>  <mark>pymavlink</mark>  <mark>numpy</mark>  <mark>bokeh</mark>  <mark>dask</mark>
+          
+          <img src="images/db_logo.jpg" width="25" height="25" /> <mark>DB stack</mark>:  <mark>sqlite</mark>  <mark>CVAT</mark>
 
           <img src="images/aws.png" width="25" height="25" />  <mark>S3</mark>
 
@@ -119,7 +121,7 @@ content:
           
           Worked directly with a CTO / owner on a lightweight, scalable, AWS based recommendation platform with multiple SDKs:
           - development, testing, optimization, deployment and maintenance of all [AWS platform](https://github.com/improve-ai/tracker-trainer) 
-          components: dockerfiles, deployment to AWS, orchestration, data ingestion pipelines and  dask distributed SageMaker training pipelines 
+          components: dockerfiles, deployment to AWS, orchestration, data ingestion pipelines and dask distributed SageMaker training pipelines 
           - RL / ML models training, evaluation, debugging, testing and cross-platform validation
           - development and testing of a [python SDK](https://github.com/improve-ai/python-ranker) 
           ([improveai](https://pypi.org/project/improveai/) pypi package) which allows for Python and [AWS platform](https://github.com/improve-ai/tracker-trainer) interaction 
@@ -167,7 +169,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img src="images/topics.png" width="25" height="25" />  <mark>ML</mark>  <mark>churn prediction</mark>  <mark>time series</mark>  <mark>process mining</mark>  <mark>process optimization</mark>
           
-          - corporate client churn prediction - fully responsible for development of a robust time series classifier (~30% precision / ~50% recall); Extensive sklearn's API usage to combine an entire process into a single pipelines; Actively participated in production deployment and monitoring
+          - corporate client churn prediction - fully responsible for development of a robust time series classifier (~30% precision / ~50% recall); Extensive sklearn's API usage to combine an entire process into a single pipeline; Actively participated in production deployment and monitoring
           - process optimization - developed and deployed multiple data transformation and ingestion pipelines (bank's DW &rarr; process mining tool LanaLabs via REST API); Automation of bank's job scheduler config creation
           - development, deployment and maintenance of an ad-hoc, internal CoVid-19 R-Shiny report for bank’s management 
           
@@ -264,7 +266,7 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          UAV’s conceptual, structural and aerodynamic analysis and design
+          UAVs' conceptual, structural and aerodynamic analysis and design
 
 
   - title: Courses # Title for the section
@@ -294,7 +296,7 @@ content:
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Systems, applications and databases. Topics covered: OOP in JAVA, relational databases(basics of design and SQL programming).
+          Systems, applications and databases. Topics covered: OOP in JAVA, relational databases (basics of design and SQL programming).
 
   - title: # Title for the section
     layout: list # Type of content section (list/text)
@@ -307,7 +309,7 @@ content:
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Finished studies at the Faculty of Power and Aeronautical Engineering, two specializations completed (“Aerospace Engineering” and “Aerospace Propulsion Systems”). 
-          B.Sc final college grade: very good, M.Sc.final college grade: excellent (summacumlaude).
+          B.Sc final college grade: very good, M.Sc. final college grade: excellent (summa cum laude).
                     
   - title: Languages # Title for the section
     layout: list # Type of content section (list/text)
