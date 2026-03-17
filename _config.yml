@@ -86,12 +86,11 @@ content:
         description: |
           <img src="images/topics.png" width="25" height="25" />  <mark>Computer Vision</mark>  <mark>Neural Nets</mark>  <mark>YOLO</mark>  <mark>Reinforcement Learning</mark>  <mark>docker</mark>  <mark>ArduPilot</mark>  <mark>MAVLink</mark>  <mark>PX4 + JSBSim SiTL</mark>
           
-          Worked on real-life UAV AI applications tested on actual UAVs:
-          - Designed and implemented multi-GPU object detection pipeline for training and validation (YOLO based), deployed to production on edge with NCNN
-          - Designed and implemented functional visual navigation code for UAVs
-          - Quantized, optimized, parallelized and deployed code on edge devices
-          - Worked with different neural runtimes / accelerators on edge (Coral TPU, Nvidia Jetson Nano + TRT, NCNN)
-          - Ensured proper integration via MAVLink protocol
+          Designed implemented and deployed (on edge) real-life UAV CV solutions:
+          - functional visual navigation with sensor fusion (IMU, Mag, altitude) and yaw error detection
+          - E2E object detection training and validation pipeline (monitored with mlflow); Also covered inference path on edge
+          - worked with multiple NN runtimes / accelerators (Coral TPU, TRT, NCNN, tflite), quantized, optimized, profiled and parallelized code and NNs  on edge (RPi4/5, Nvidia Jetson Nano)
+
           
           Additionally:
           - Analyzed results from test flights on regular basis
@@ -101,7 +100,7 @@ content:
           
           <img src="images/db_logo.jpg" width="25" height="25" /> <mark>DB stack</mark>:  <mark>sqlite</mark>  <mark>CVAT</mark>
 
-          <img src="images/aws.png" width="25" height="25" />  <mark>S3</mark>
+          <img src="images/aws.png" width="25" height="25" />  <mark>AWS</mark>:  <mark>S3</mark>
 
 
   - title:  #  Experience and Projects # Title for the section
